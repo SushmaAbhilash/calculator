@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.App{display:flex;justify-content:center}#calc{margin-top:10%;text-align:center}#display{background-color:#000;color:#fff;height:15%;width:100%}#equals{align-items:center;justify-content:center}.numbers,.opera{display:grid;grid-template-columns:1fr 1fr 1fr 1fr}#clear,#decimal,#equals,.num,.ope{border:1px solid #000;display:flex;height:80px;justify-content:center;place-items:center;width:80px}
+/*# sourceMappingURL=main.9899e62b.css.map*/
